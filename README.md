@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yasin-cs-ko-ak
+- 👋 Hi, I’m @yasin-cs-ko-ak and I am curretly working as Associate Cyber Security Engineer at accuknox.
 - 👀 I’m interested in CyberSecurity and Blockchain
 - 🌱 I’m currently learning cloud-native security engineering
 - 💞️ I’m looking to collaborate on cloud-native projects
